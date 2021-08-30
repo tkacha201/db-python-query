@@ -18,7 +18,7 @@ if results:
     for result in results:
         print(result[1])
 else:
-    print("No word found!")
+    print("No word found!!!")
 
 
 
